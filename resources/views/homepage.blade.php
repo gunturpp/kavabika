@@ -8,7 +8,7 @@
     <div class="head-content">
         <h1 class="head-title">Biji kopi <b>berkualitas</b> ada disini</h1>
         <div>
-            <a class="link-findout" href="#">Cari kopi</a>
+            <a class="link-findout" href="#"><b>Cari kopi</b></a>
         </div>
     </div>
     <div class="container">
